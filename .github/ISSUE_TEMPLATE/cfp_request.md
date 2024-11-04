@@ -2,7 +2,7 @@
 name: New CFP Request
 about: Submit a new Call for Papers (CFP) to be listed on CallForPaper.org
 title: "[New CFP] [Event Name]"
-labels: cfp-request
+labels: ["cfp-request", "new"]
 assignees: ''
 ---
 
@@ -28,4 +28,3 @@ Provide a list of topics or categories covered by the CFP:
 - **Any other relevant links**:
 
 *Thank you for contributing to CallForPaper.org!*
-
